@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "198495673849",
+    "firebase_url": "https://parkfynder-default-rtdb.firebaseio.com",
+    "project_id": "parkfynder",
+    "storage_bucket": "parkfynder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198495673849:android:3e368385544579e14e7128",
+        "android_client_info": {
+          "package_name": "com.example.parkfynder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaE7wlQneYXqhvYo0zVLfLjO20ILfpkns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
