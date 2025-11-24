@@ -1,0 +1,48 @@
+# 🚗 ParkFynder  
+### Smart Parking Finder Using Location Tracking & Maps
+
+ParkFynder is an intelligent parking assistant application designed to help users locate available parking spaces using GPS and map-based navigation.  
+Searching for parking in busy areas wastes time, fuel, and creates frustration — ParkFynder solves this by connecting users to nearby parking options instantly.
+
+---
+
+## 🎯 Purpose of the Project
+
+This project was developed to address a **real-world problem** — difficulty in finding parking spaces in crowded cities.  
+The primary goal is to provide:
+
+✔ Faster parking search experience  
+✔ Real-time distance calculation  
+✔ A smooth and intuitive interface for easy navigation  
+
+---
+
+## 🧩 Key Features
+
+| Feature | Description |
+|--------|-------------|
+| 📍 Smart Location Detection | Automatically detects user's current location |
+| 🗺 Interactive Map | Uses Google Maps API for navigation and parking suggestions |
+| 🔎 Parking Search | Displays nearby parking areas within preferred radius |
+| 💵 Cost Visibility | Shows pricing (if available) |
+| ⭐ Saves Favorite Locations | User can save and revisit frequently-used parking zones |
+| 🎨 Simple UI | Minimal, clean, and easy-to-use interface |
+
+---
+
+## 🛠 Tech Stack & Tools
+
+| Category | Technology |
+|----------|------------|
+| Language | Java |
+| IDE | Android Studio |
+| Backend (Optional/Extendable) | Firebase / Custom API |
+| Maps Integration | Google Maps API |
+| Architecture | MVVM (Optional, can update once used) |
+
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/ParkFynder
